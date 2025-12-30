@@ -78,7 +78,7 @@ export default function DCANSection({ isVisible }: SectionProps) {
                     Decentralized Cognitive Agent Network—intelligence emerges from collective agent behavior.
                     <br />
                     <span style={{ color: '#3b82f6', fontWeight: 500 }}>
-                        Led and engineered by our Principal Architect, Godswill Iyke Dave.
+                        Led and engineered by our Principal AI Researcher and Engineer, Godswill Iyke Dave.
                     </span>
                 </p>
             </motion.div>
