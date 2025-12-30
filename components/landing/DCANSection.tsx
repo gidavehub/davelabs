@@ -70,11 +70,16 @@ export default function DCANSection({ isVisible }: SectionProps) {
                     style={{
                         fontSize: 'clamp(14px, 2vw, 18px)',
                         color: '#64748b',
-                        maxWidth: '650px',
+                        maxWidth: '750px',
                         margin: '0 auto',
+                        lineHeight: 1.6,
                     }}
                 >
                     Decentralized Cognitive Agent Network—intelligence emerges from collective agent behavior.
+                    <br />
+                    <span style={{ color: '#3b82f6', fontWeight: 500 }}>
+                        Led and engineered by our Principal Architect, Godswill Iyke Dave.
+                    </span>
                 </p>
             </motion.div>
 

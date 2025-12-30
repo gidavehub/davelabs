@@ -31,7 +31,7 @@ export default function RootLayout({
             </head>
             <body className="bg-black antialiased">
                 <CapsuleNav
-                    logoSrc="/DaveLabslogo.png"
+                    logoSrc="/davelabslogo.png"
                     companyName="DaveLabs"
                     tagline="RESEARCH"
                     position="top-right"

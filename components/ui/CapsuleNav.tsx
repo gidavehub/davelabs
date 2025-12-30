@@ -95,7 +95,7 @@ const navigationSections = [
 const cardColors = ['#0f0f1a', '#1a1a2e'];
 
 const CapsuleNav: React.FC<CapsuleNavProps> = ({
-    logoSrc = '/DaveLabslogo.png',
+    logoSrc = '/davelabslogo.png',
     logoAlt = 'DaveLabs Logo',
     companyName = 'DaveLabs',
     tagline = 'RESEARCH',
